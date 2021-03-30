@@ -1,0 +1,9 @@
+C:\Users\Owner\source\repos\TheZoo\TheZooClassLibrary\bin\Debug\netcoreapp3.1\TheZooClassLibrary.deps.json
+C:\Users\Owner\source\repos\TheZoo\TheZooClassLibrary\bin\Debug\netcoreapp3.1\TheZooClassLibrary.dll
+C:\Users\Owner\source\repos\TheZoo\TheZooClassLibrary\bin\Debug\netcoreapp3.1\TheZooClassLibrary.pdb
+C:\Users\Owner\source\repos\TheZoo\TheZooClassLibrary\obj\Debug\netcoreapp3.1\TheZooClassLibrary.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\TheZoo\TheZooClassLibrary\obj\Debug\netcoreapp3.1\TheZooClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\TheZoo\TheZooClassLibrary\obj\Debug\netcoreapp3.1\TheZooClassLibrary.AssemblyInfo.cs
+C:\Users\Owner\source\repos\TheZoo\TheZooClassLibrary\obj\Debug\netcoreapp3.1\TheZooClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TheZoo\TheZooClassLibrary\obj\Debug\netcoreapp3.1\TheZooClassLibrary.dll
+C:\Users\Owner\source\repos\TheZoo\TheZooClassLibrary\obj\Debug\netcoreapp3.1\TheZooClassLibrary.pdb

@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.AssemblyInfo.cs
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.exe
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.deps.json
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.runtimeconfig.json
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.dll
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.pdb
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.dll
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.pdb
+C:\Users\Owner\source\repos\PrimeFactors\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.genruntimeconfig.cache

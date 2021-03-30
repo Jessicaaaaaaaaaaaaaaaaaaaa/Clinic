@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TheZoo/1.0.0": {
+        "dependencies": {
+          "TheZooClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TheZoo.dll": {}
+        }
+      },
+      "TheZooClassLibrary/1.0.0": {
+        "runtime": {
+          "TheZooClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheZoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheZooClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

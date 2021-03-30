@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\TheZoo\TheZoo\bin\Debug\netcoreapp3.1\TheZoo.exe
+C:\Users\Owner\source\repos\TheZoo\TheZoo\bin\Debug\netcoreapp3.1\TheZoo.deps.json
+C:\Users\Owner\source\repos\TheZoo\TheZoo\bin\Debug\netcoreapp3.1\TheZoo.runtimeconfig.json
+C:\Users\Owner\source\repos\TheZoo\TheZoo\bin\Debug\netcoreapp3.1\TheZoo.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\TheZoo\TheZoo\bin\Debug\netcoreapp3.1\TheZoo.dll
+C:\Users\Owner\source\repos\TheZoo\TheZoo\bin\Debug\netcoreapp3.1\TheZoo.pdb
+C:\Users\Owner\source\repos\TheZoo\TheZoo\bin\Debug\netcoreapp3.1\TheZooClassLibrary.dll
+C:\Users\Owner\source\repos\TheZoo\TheZoo\bin\Debug\netcoreapp3.1\TheZooClassLibrary.pdb
+C:\Users\Owner\source\repos\TheZoo\TheZoo\obj\Debug\netcoreapp3.1\TheZoo.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\TheZoo\TheZoo\obj\Debug\netcoreapp3.1\TheZoo.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\TheZoo\TheZoo\obj\Debug\netcoreapp3.1\TheZoo.AssemblyInfo.cs
+C:\Users\Owner\source\repos\TheZoo\TheZoo\obj\Debug\netcoreapp3.1\TheZoo.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TheZoo\TheZoo\obj\Debug\netcoreapp3.1\TheZoo.csproj.CopyComplete
+C:\Users\Owner\source\repos\TheZoo\TheZoo\obj\Debug\netcoreapp3.1\TheZoo.dll
+C:\Users\Owner\source\repos\TheZoo\TheZoo\obj\Debug\netcoreapp3.1\TheZoo.pdb
+C:\Users\Owner\source\repos\TheZoo\TheZoo\obj\Debug\netcoreapp3.1\TheZoo.genruntimeconfig.cache
