@@ -2,7 +2,7 @@
 
 namespace PrimeFactors
 {
-    class Program
+    public class Program
     {
         public static string PrimeFactors(int number)
         {
@@ -21,7 +21,7 @@ namespace PrimeFactors
 
         static void Main(string[] args)
         {
-            Console.WriteLine(PrimeFactors(40));
+            Console.WriteLine(PrimeFactors(9));
         }
     }
 }

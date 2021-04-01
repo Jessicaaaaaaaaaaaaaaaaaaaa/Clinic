@@ -9,6 +9,7 @@ namespace TheZoo
     {
         static void Main(string[] args)
         {
+
             int totalAnimals = 3;
             string Animal = string.Empty;
             List<IAnimal> animals = new List<IAnimal>();
@@ -41,12 +42,12 @@ namespace TheZoo
 
             Console.WriteLine("\n===== \n");
 
-            foreach (var animal in animals) 
+            foreach (var animal in animals)
             {
                 int ind = animals.IndexOf(animal);
                 Console.Write($"Cage {ind + 1} contains a ");
                 Console.WriteLine(animal.GetDescription());
-            }
+            }    
 
             Console.WriteLine("\nHave a nice day!");
         }
