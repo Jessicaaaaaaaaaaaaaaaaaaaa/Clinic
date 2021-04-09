@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\RegexApp\RegexApp\bin\Debug\netcoreapp3.1\RegexApp.exe
+C:\Users\Owner\source\repos\RegexApp\RegexApp\bin\Debug\netcoreapp3.1\RegexApp.deps.json
+C:\Users\Owner\source\repos\RegexApp\RegexApp\bin\Debug\netcoreapp3.1\RegexApp.runtimeconfig.json
+C:\Users\Owner\source\repos\RegexApp\RegexApp\bin\Debug\netcoreapp3.1\RegexApp.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\RegexApp\RegexApp\bin\Debug\netcoreapp3.1\RegexApp.dll
+C:\Users\Owner\source\repos\RegexApp\RegexApp\bin\Debug\netcoreapp3.1\RegexApp.pdb
+C:\Users\Owner\source\repos\RegexApp\RegexApp\obj\Debug\netcoreapp3.1\RegexApp.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\RegexApp\RegexApp\obj\Debug\netcoreapp3.1\RegexApp.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\RegexApp\RegexApp\obj\Debug\netcoreapp3.1\RegexApp.AssemblyInfo.cs
+C:\Users\Owner\source\repos\RegexApp\RegexApp\obj\Debug\netcoreapp3.1\RegexApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\RegexApp\RegexApp\obj\Debug\netcoreapp3.1\RegexApp.dll
+C:\Users\Owner\source\repos\RegexApp\RegexApp\obj\Debug\netcoreapp3.1\RegexApp.pdb
+C:\Users\Owner\source\repos\RegexApp\RegexApp\obj\Debug\netcoreapp3.1\RegexApp.genruntimeconfig.cache

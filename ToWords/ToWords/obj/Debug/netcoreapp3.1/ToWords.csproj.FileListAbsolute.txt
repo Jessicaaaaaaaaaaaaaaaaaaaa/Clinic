@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\ToWords\ToWords\bin\Debug\netcoreapp3.1\ToWords.exe
+C:\Users\Owner\source\repos\ToWords\ToWords\bin\Debug\netcoreapp3.1\ToWords.deps.json
+C:\Users\Owner\source\repos\ToWords\ToWords\bin\Debug\netcoreapp3.1\ToWords.runtimeconfig.json
+C:\Users\Owner\source\repos\ToWords\ToWords\bin\Debug\netcoreapp3.1\ToWords.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\ToWords\ToWords\bin\Debug\netcoreapp3.1\ToWords.dll
+C:\Users\Owner\source\repos\ToWords\ToWords\bin\Debug\netcoreapp3.1\ToWords.pdb
+C:\Users\Owner\source\repos\ToWords\ToWords\obj\Debug\netcoreapp3.1\ToWords.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\ToWords\ToWords\obj\Debug\netcoreapp3.1\ToWords.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\ToWords\ToWords\obj\Debug\netcoreapp3.1\ToWords.AssemblyInfo.cs
+C:\Users\Owner\source\repos\ToWords\ToWords\obj\Debug\netcoreapp3.1\ToWords.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ToWords\ToWords\obj\Debug\netcoreapp3.1\ToWords.dll
+C:\Users\Owner\source\repos\ToWords\ToWords\obj\Debug\netcoreapp3.1\ToWords.pdb
+C:\Users\Owner\source\repos\ToWords\ToWords\obj\Debug\netcoreapp3.1\ToWords.genruntimeconfig.cache
