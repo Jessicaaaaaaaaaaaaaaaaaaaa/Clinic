@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7hwrm8R8a8nR3VjUQE738y+71Re85Ede06+4asN4LzEg8z/kDnH4k5KBmvmCu9luQy2RGVRelMux0ASERzWWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\CreditCardEncryption\\CreditCardEncryption\\CreditCardEncryption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.9\\microsoft.aspnetcore.cryptography.internal.3.1.9.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.9\\microsoft.aspnetcore.cryptography.keyderivation.3.1.9.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\robertson.dotnetcore2.cripto\\1.0.1\\robertson.dotnetcore2.cripto.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

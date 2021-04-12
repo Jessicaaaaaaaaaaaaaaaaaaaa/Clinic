@@ -16,7 +16,6 @@ namespace CSharpDemo
             Console.WriteLine(ToWords(bi));
         }
 
-
         public static string ToWords(BigInteger number)
         {
             string[] partsByThree = number.ToString("N0").Split(",");
@@ -34,8 +33,6 @@ namespace CSharpDemo
 
             return res;
         }
-
-
 
         public static string LargeNumberToWord(int value)
         {

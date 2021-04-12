@@ -1,0 +1,17 @@
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\bin\Debug\netcoreapp3.1\CreditCardEncryption.exe
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\bin\Debug\netcoreapp3.1\CreditCardEncryption.deps.json
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\bin\Debug\netcoreapp3.1\CreditCardEncryption.runtimeconfig.json
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\bin\Debug\netcoreapp3.1\CreditCardEncryption.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\bin\Debug\netcoreapp3.1\CreditCardEncryption.dll
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\bin\Debug\netcoreapp3.1\CreditCardEncryption.pdb
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\bin\Debug\netcoreapp3.1\Cripto.dll
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\netcoreapp3.1\CreditCardEncryption.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\netcoreapp3.1\CreditCardEncryption.AssemblyInfo.cs
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\netcoreapp3.1\CreditCardEncryption.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\netcoreapp3.1\CreditCardEncryption.csproj.CopyComplete
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\netcoreapp3.1\CreditCardEncryption.dll
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\netcoreapp3.1\CreditCardEncryption.pdb
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\netcoreapp3.1\CreditCardEncryption.genruntimeconfig.cache
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\bin\Debug\netcoreapp3.1\Customer.cs
