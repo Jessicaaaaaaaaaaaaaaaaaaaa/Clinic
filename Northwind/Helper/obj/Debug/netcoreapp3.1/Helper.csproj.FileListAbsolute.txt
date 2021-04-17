@@ -1,0 +1,8 @@
+C:\Users\Owner\source\repos\Northwind\Helper\bin\Debug\netcoreapp3.1\Helper.deps.json
+C:\Users\Owner\source\repos\Northwind\Helper\bin\Debug\netcoreapp3.1\Helper.dll
+C:\Users\Owner\source\repos\Northwind\Helper\bin\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\Owner\source\repos\Northwind\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Northwind\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Northwind\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Northwind\Helper\obj\Debug\netcoreapp3.1\Helper.dll
+C:\Users\Owner\source\repos\Northwind\Helper\obj\Debug\netcoreapp3.1\Helper.pdb
