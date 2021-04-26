@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Animal";
+}
+<h1>Animal</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Species</th>
+            <th>Name</th>
+            <th>Weight</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Animals)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Species</td>
+                <td>@item.Name</td>
+                <td>@item.Weight</td>
+            </tr>
+        }
+    </tbody>
+</table>
