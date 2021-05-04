@@ -7,6 +7,6 @@ namespace CourseRegistration.Models
 {
     public class CourseVM   
     {
-        public List<DTO.Courses> Courses { get; set; }
+        public List<DTO.Course> Courses { get; set; }
     }
 }

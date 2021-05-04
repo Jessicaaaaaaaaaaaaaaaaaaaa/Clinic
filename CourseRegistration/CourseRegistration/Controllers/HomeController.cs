@@ -27,29 +27,30 @@ namespace CourseRegistration.Controllers
         {
             InstructorViewModel ivm = new InstructorViewModel();
 
-            List<DTO.Instructors> instructors = new List<DTO.Instructors>()
+            List<DTO.Instructor> instructors = new List<DTO.Instructor>()
             {
-                new DTO.Instructors{ InstructorId = 1, FirstName = "Albus", LastName = "Dumbledore", 
+                new DTO.Instructor{ InstructorId = 1, FirstName = "Albus", LastName = "Dumbledore", 
                     Email = "adumbledore@hogwarts.co.uk", Course = "Transfiguration 101"},
-                new DTO.Instructors{ InstructorId = 2, FirstName = "Minerva", LastName = "McGonagall",
+                new DTO.Instructor{ InstructorId = 2, FirstName = "Minerva", LastName = "McGonagall",
                     Email = "mmcgonagall@hogwarts.co.uk", Course = "Transfiguration 202"},
-                new DTO.Instructors{ InstructorId = 3, FirstName = "Severus", LastName = "Snape",
+                new DTO.Instructor{ InstructorId = 3, FirstName = "Severus", LastName = "Snape",
                     Email = "ssnape@hogwarts.co.uk", Course = "Defence Against the Dark Arts"}
             };
             ivm.Instructors = instructors;
             return View(ivm);
         }
+
         public IActionResult Students()
         {
             StudentVM svm = new StudentVM();
 
-            List<DTO.Students> students = new List<DTO.Students>() 
+            List<DTO.Student> students = new List<DTO.Student>() 
             {
-                new DTO.Students{ StudentId = 1, FirstName = "Harry", LastName = "Potter",
+                new DTO.Student{ StudentId = 1, FirstName = "Harry", LastName = "Potter",
                     Email = "hpotter@hogwarts.co.uk", Phone = "+44 20 1234 5678"},
-                new DTO.Students{ StudentId = 2, FirstName = "Hermione", LastName = "Granger",
+                new DTO.Student{ StudentId = 2, FirstName = "Hermione", LastName = "Granger",
                     Email = "hgranger@hogwarts.co.uk", Phone = "+44 20 9101 1121"},
-                new DTO.Students{ StudentId = 3, FirstName = "Ronald", LastName = "Weasley",
+                new DTO.Student{ StudentId = 3, FirstName = "Ronald", LastName = "Weasley",
                     Email = "rweasley@hogwarts.co.uk", Phone = "+44 20 3141 5161"}
             };
             svm.Students = students;
@@ -60,39 +61,22 @@ namespace CourseRegistration.Controllers
         {
             CourseVM cvm = new CourseVM();
 
-            List<DTO.Courses> students = new List<DTO.Courses>()
+            List<DTO.Course> courses = new List<DTO.Course>()
             {
-                new DTO.Courses{ CourseId = 1, CourseNumber = 1, 
+                new DTO.Course{ CourseId = 1, CourseNumber = 1, 
                     CourseName = "Transfiguration 101",
                     Description = "Learn how to turn your mom into a mouse. Beginners welcome!"},
-                new DTO.Courses{ CourseId = 2, CourseNumber = 2, 
+                new DTO.Course{ CourseId = 2, CourseNumber = 2, 
                     CourseName = "Transfiguration 202",
                     Description = "Don't take this course unless you know how to turn your mom into a mouse."},
-                new DTO.Courses{ CourseId = 3, CourseNumber = 3, 
+                new DTO.Course{ CourseId = 3, CourseNumber = 3, 
                     CourseName = "Defence Against the Dark Arts",
                     Description = "You pretty much need this course to survive your life."}
             };
-            cvm.Courses = students;
+            cvm.Courses = courses;
             return View(cvm);
         }
-
-        public IActionResult Registration()
-        {
-            RegistrationVM ivm = new RegistrationVM();
-
-            List<DTO.Registration> registration = new List<DTO.Registration>()
-            {
-                new DTO.Registration{ InstructorId = 1, RegistrationType = "full time", StudentId = 1,
-                    CourseId = 1},
-                new DTO.Registration{ InstructorId = 2, RegistrationType = "part time", StudentId = 2,
-                    CourseId = 2},
-                new DTO.Registration{ InstructorId = 3, RegistrationType = "full time", StudentId = 3,
-                    CourseId = 3}
-            };
-            ivm.Registration = registration;
-            return View(ivm);
-        }
-
+        
         public IActionResult Privacy()
         {
             return View();
