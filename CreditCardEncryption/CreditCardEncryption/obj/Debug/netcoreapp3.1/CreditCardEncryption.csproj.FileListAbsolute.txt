@@ -14,4 +14,4 @@ C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\
 C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\netcoreapp3.1\CreditCardEncryption.dll
 C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\netcoreapp3.1\CreditCardEncryption.pdb
 C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\netcoreapp3.1\CreditCardEncryption.genruntimeconfig.cache
-C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\bin\Debug\netcoreapp3.1\Customer.cs
+C:\Users\Owner\source\repos\CreditCardEncryption\CreditCardEncryption\obj\Debug\netcoreapp3.1\CreditCardEncryption.csprojAssemblyReference.cache

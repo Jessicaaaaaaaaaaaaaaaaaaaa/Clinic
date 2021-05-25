@@ -2,12 +2,12 @@
 <ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Customer>
     <Name>Bob Smith</Name>
-    <CreditCard>CFZpxVMqhx/0DrDNWbICOtkL5CyLuNEHyR4yIthyykY=</CreditCard>
-    <Password>2BNQ9GDiWmAcHjWWuDAU84AcsG8tPNyxwXDUQy8dy9w=</Password>
+    <CreditCard>Lrd/B2FdcDWc/j1mKMTEnEvXRGFNUZPUWp/bk4nsqDY=</CreditCard>
+    <Password>+51f1/sdG8TdJOwhWjSmC7/esd3knozN8TxgiiSC7Z0=</Password>
   </Customer>
   <Customer>
     <Name>Lucy Johnson</Name>
-    <CreditCard>5k78tvsogxUK5BHZC8gjlxwxfPHQCbwu5wlkXONNfqk=</CreditCard>
-    <Password>i8/28sj3EtV1/vzNV27EdqyBgFQ7YmvSsObq5zxX9NQ=</Password>
+    <CreditCard>9JwUjw5Bm6CyPfGT0BxD1OScL7P+uCeMnPqUq0vq5xI=</CreditCard>
+    <Password>IY/Hp2dgvufgGpKIDiPhjYcqfwc9Ct1jEj5vXNc+y2I=</Password>
   </Customer>
 </ArrayOfCustomer>

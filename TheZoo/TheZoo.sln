@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheZoo", "TheZoo\TheZoo.csproj", "{2427C547-1FDA-470E-8A19-1FC854F53885}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheZooClassLibrary", "TheZooClassLibrary\TheZooClassLibrary.csproj", "{575138D8-4794-459C-985C-14028B72CA71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheZooClassLibrary", "TheZooClassLibrary\TheZooClassLibrary.csproj", "{575138D8-4794-459C-985C-14028B72CA71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

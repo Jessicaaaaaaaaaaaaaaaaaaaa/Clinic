@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeFactors", "PrimeFactors\PrimeFactors.csproj", "{00BF4C37-0538-480D-9B11-DD17A090868C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsTest", "PrimeFactorsTest\PrimeFactorsTest.csproj", "{BBE35B70-CDCF-4989-9B3D-6C35F0D788FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeFactorsTest", "PrimeFactorsTest\PrimeFactorsTest.csproj", "{BBE35B70-CDCF-4989-9B3D-6C35F0D788FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

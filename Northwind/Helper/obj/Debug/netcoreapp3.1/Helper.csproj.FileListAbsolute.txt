@@ -6,3 +6,7 @@ C:\Users\Owner\source\repos\Northwind\Helper\obj\Debug\netcoreapp3.1\Helper.Asse
 C:\Users\Owner\source\repos\Northwind\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache
 C:\Users\Owner\source\repos\Northwind\Helper\obj\Debug\netcoreapp3.1\Helper.dll
 C:\Users\Owner\source\repos\Northwind\Helper\obj\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\Owner\source\repos\Northwind\Helper\bin\Debug\netcoreapp3.1\Helper.runtimeconfig.json
+C:\Users\Owner\source\repos\Northwind\Helper\bin\Debug\netcoreapp3.1\Helper.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Northwind\Helper\obj\Debug\netcoreapp3.1\Helper.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Northwind\Helper\obj\Debug\netcoreapp3.1\Helper.csprojAssemblyReference.cache

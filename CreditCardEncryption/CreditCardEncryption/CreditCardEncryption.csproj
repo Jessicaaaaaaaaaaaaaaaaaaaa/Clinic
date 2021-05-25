@@ -9,10 +9,4 @@
     <PackageReference Include="Robertson.DotNetCore2.Cripto" Version="1.0.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Compile Update="Customer.cs">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Compile>
-  </ItemGroup>
-
 </Project>

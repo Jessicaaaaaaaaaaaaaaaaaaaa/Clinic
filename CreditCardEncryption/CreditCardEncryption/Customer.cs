@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-public class Customer
+namespace CreditCardEncryption
 {
-	public string Name { set; get; }
-	public string CreditCard { set; get; }
-	public string Password { set; get; }
+    public class Customer
+    {
+        public string Name { set; get; }
+        public string CreditCard { set; get; }
+        public string Password { set; get; }
+    }
 }
