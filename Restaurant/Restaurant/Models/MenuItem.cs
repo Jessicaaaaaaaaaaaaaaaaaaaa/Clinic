@@ -4,18 +4,16 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Restaurant.Models
+namespace Restaurant.Models  
 {
     public class MenuItem
     {
         [Key]
         [Required]
         public int Id { get; set; }
-
         [Required]
-        public String Name { get; set; }
-
-        [Required] 
-        public Double Price { get; set; }
+        public string Name { get; set; }
+        [Required]
+        public double Price { get; set; }
     }
 }

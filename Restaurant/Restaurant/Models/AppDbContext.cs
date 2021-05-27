@@ -1,10 +1,10 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
 
-namespace Restaurant.Models 
+namespace Restaurant.Models
 {
     public class AppDbContext : DbContext
     {
@@ -13,32 +13,31 @@ namespace Restaurant.Models
 
         }
 
-        public DbSet<MenuItem> menuItems { get; set; }  
+        public DbSet<MenuItem> MenuItems { get; set; }
+        public DbSet<ReservationMenuItem> ReservationMenuItems { get; set; } 
         public DbSet<Reservation> Reservations { get; set; }
-        public DbSet<ReservationMenuItems> ReservationMenuItems { get; set; }
-
+        
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
             modelBuilder.Entity<MenuItem>().HasData(
-                 new MenuItem()
-                 {
-                     Id = 1,
-                     Name = "Brain Soup",
-                     Price = 12.99
-                 },
-                 new MenuItem()
-                 {
-                     Id = 2,
-                     Name = "Sauteed Tail of Lab Rat",
-                     Price = 6.99
-                 },
+                new MenuItem()
+                {
+                    Id = 1,
+                    Name = "Kjielkje & Schmaunt Fat",
+                    Price = 14.99
+                },
+                new MenuItem()
+                {
+                    Id = 2,
+                    Name = "Plumi Moos",
+                    Price = 7.99
+                },
                 new MenuItem()
                 {
                     Id = 3,
-                    Name = "Fried Brains with Slaw",
-                    Price = 14.99
+                    Name = "Vereniki",
+                    Price = 12.99
                 }
                 );
 
@@ -46,38 +45,47 @@ namespace Restaurant.Models
                 new Reservation()
                 {
                     Id = 1,
-                    Name = "Carl Jung",
-                    Date = DateTime.Now,
-                    MenuItems = new List<MenuItem>()
+                    Name = "John Klassen",
+                    Date = DateTime.Now
                 },
                 new Reservation()
                 {
                     Id = 2,
-                    Name = "Sigmund Freud",
-                    Date = DateTime.Now,
-                    MenuItems = new List<MenuItem>()
+                    Name = "Margaret Froese",
+                    Date = DateTime.Now
                 },
                 new Reservation()
                 {
                     Id = 3,
-                    Name = "Ivan Pavlov",
-                    Date = DateTime.Now,
-                    MenuItems = new List<MenuItem>()
+                    Name = "Anna Giesbrecht",
+                    Date = DateTime.Now
                 }
                 );
 
-            modelBuilder.Entity<ReservationMenuItems>().HasData(
-                new ReservationMenuItems()
-                {
-                    Id = 1,
-                    MenuItemId = 1,
-                    ReservationId = 1
-                }
-                );
+            modelBuilder.Entity<ReservationMenuItem>().HasData(
+
+               new ReservationMenuItem()
+               {
+                   Id = 1,
+                   MenuItemId = 1,
+                   ReservationId = 1
+               },
+               new ReservationMenuItem()
+               {
+                   Id = 2,
+                   MenuItemId = 2,
+                   ReservationId = 2
+               },
+               new ReservationMenuItem()
+               {
+                   Id = 3,
+                   MenuItemId = 3,
+                   ReservationId = 3
+               }
+               );
 
             base.OnModelCreating(modelBuilder);
 
         }
     }
 }
-

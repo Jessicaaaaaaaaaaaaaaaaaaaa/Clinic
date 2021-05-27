@@ -11,14 +11,11 @@ namespace Restaurant.Models
         [Key]
         [Required]
         public int Id { get; set; }
-
         [Required]
-        public String Name { get; set; }
-
+        public string Name { get; set; }
         [Required]
         public DateTime Date { get; set; }
 
-        [Required]
         public List<MenuItem> MenuItems { get; set; } = new List<MenuItem>();
     }
 }
