@@ -49,9 +49,9 @@ namespace CourseRegistrationMVC.Controllers
         // GET: Registrations/Create
         public IActionResult Create()
         {
-            ViewData["CourseId"] = new SelectList(_context.Courses, "CourseId", "Description");
-            ViewData["InstructorId"] = new SelectList(_context.Instructors, "InstructorId", "Course");
-            ViewData["StudentId"] = new SelectList(_context.Students, "StudentId", "Email");
+            ViewData["CourseId"] = new SelectList(_context.Courses, "CourseName", "CourseName");
+            ViewData["InstructorId"] = new SelectList(_context.Instructors, "FirstName", "FirstName");
+            ViewData["StudentId"] = new SelectList(_context.Students, "FirstName", "FirstName");
             return View();
         }
 

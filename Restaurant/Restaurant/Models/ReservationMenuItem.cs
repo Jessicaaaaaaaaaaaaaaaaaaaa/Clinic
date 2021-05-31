@@ -14,12 +14,12 @@ namespace Restaurant.Models
 
 
         [ForeignKey("MenuItemId")]
-        public MenuItem MenuItem { set; get; }
+        
         public int MenuItemId { set; get; }
 
 
         [ForeignKey("ReservationId")]
         public int ReservationId { set; get; }
-        public Reservation Reservation { set; get; }
+        
     }
 }

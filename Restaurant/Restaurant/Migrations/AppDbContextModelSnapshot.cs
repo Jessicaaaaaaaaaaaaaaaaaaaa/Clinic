@@ -85,19 +85,19 @@ namespace Restaurant.Migrations
                         new
                         {
                             Id = 1,
-                            Date = new DateTime(2021, 5, 27, 16, 24, 52, 184, DateTimeKind.Local).AddTicks(2808),
+                            Date = new DateTime(2021, 5, 29, 15, 23, 14, 998, DateTimeKind.Local).AddTicks(7237),
                             Name = "John Klassen"
                         },
                         new
                         {
                             Id = 2,
-                            Date = new DateTime(2021, 5, 27, 16, 24, 52, 187, DateTimeKind.Local).AddTicks(7942),
+                            Date = new DateTime(2021, 5, 29, 15, 23, 15, 3, DateTimeKind.Local).AddTicks(2734),
                             Name = "Margaret Froese"
                         },
                         new
                         {
                             Id = 3,
-                            Date = new DateTime(2021, 5, 27, 16, 24, 52, 187, DateTimeKind.Local).AddTicks(7980),
+                            Date = new DateTime(2021, 5, 29, 15, 23, 15, 3, DateTimeKind.Local).AddTicks(2809),
                             Name = "Anna Giesbrecht"
                         });
                 });
@@ -116,10 +116,6 @@ namespace Restaurant.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("MenuItemId");
-
-                    b.HasIndex("ReservationId");
 
                     b.ToTable("ReservationMenuItems");
 
@@ -149,25 +145,6 @@ namespace Restaurant.Migrations
                     b.HasOne("Restaurant.Models.Reservation", null)
                         .WithMany("MenuItems")
                         .HasForeignKey("ReservationId");
-                });
-
-            modelBuilder.Entity("Restaurant.Models.ReservationMenuItem", b =>
-                {
-                    b.HasOne("Restaurant.Models.MenuItem", "MenuItem")
-                        .WithMany()
-                        .HasForeignKey("MenuItemId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Restaurant.Models.Reservation", "Reservation")
-                        .WithMany()
-                        .HasForeignKey("ReservationId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("MenuItem");
-
-                    b.Navigation("Reservation");
                 });
 
             modelBuilder.Entity("Restaurant.Models.Reservation", b =>

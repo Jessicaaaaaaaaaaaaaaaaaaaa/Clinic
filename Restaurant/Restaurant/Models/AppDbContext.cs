@@ -47,6 +47,8 @@ namespace Restaurant.Models
                     Id = 1,
                     Name = "John Klassen",
                     Date = DateTime.Now
+                    // list of menu items??
+
                 },
                 new Reservation()
                 {
