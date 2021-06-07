@@ -32,7 +32,10 @@
                 @Html.DisplayFor(modelItem => item.CourseNumber)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.CourseName)
+                <button type="button" class="btn btn-primary btn-block btn-sm" data-toggle="modal" data-target="#myModal">
+                    @Html.DisplayFor(modelItem => item.CourseName)
+                </button>
+                
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Description)
@@ -46,3 +49,55 @@
 }
     </tbody>
 </table>
+
+<div class="container">
+    
+    <!-- The Modal -->
+    <div class="modal" id="myModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">Modal Heading</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Course Number</th>
+                                <th>Course Name</th>
+                                <th>Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.CourseNumber)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.CourseName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Description)
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

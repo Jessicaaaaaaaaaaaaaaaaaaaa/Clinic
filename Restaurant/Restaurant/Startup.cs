@@ -34,7 +34,7 @@ namespace Restaurant
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Restaurant", Version = "v1" });
             });
             services.AddDbContextPool<AppDbContext>(options =>
-           options.UseSqlServer(Configuration.GetConnectionString("RestaurantConnectionString")));
+                options.UseSqlServer(Configuration.GetConnectionString("RestaurantConnectionString")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
