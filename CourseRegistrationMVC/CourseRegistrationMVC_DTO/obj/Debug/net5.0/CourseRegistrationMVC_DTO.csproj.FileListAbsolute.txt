@@ -1,0 +1,5 @@
+C:\Users\Owner\source\repos\CourseRegistrationMVC\CourseRegistrationMVC_DTO\obj\Debug\net5.0\CourseRegistrationMVC_DTO.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\CourseRegistrationMVC\CourseRegistrationMVC_DTO\obj\Debug\net5.0\CourseRegistrationMVC_DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\CourseRegistrationMVC\CourseRegistrationMVC_DTO\obj\Debug\net5.0\CourseRegistrationMVC_DTO.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\CourseRegistrationMVC\CourseRegistrationMVC_DTO\obj\Debug\net5.0\CourseRegistrationMVC_DTO.AssemblyInfo.cs
+C:\Users\Owner\source\repos\CourseRegistrationMVC\CourseRegistrationMVC_DTO\obj\Debug\net5.0\CourseRegistrationMVC_DTO.csproj.CoreCompileInputs.cache

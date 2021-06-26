@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\bin\Debug\net5.0\RestaurantAPI_DTO.deps.json
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\bin\Debug\net5.0\RestaurantAPI_DTO.dll
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\bin\Debug\net5.0\ref\RestaurantAPI_DTO.dll
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\bin\Debug\net5.0\RestaurantAPI_DTO.pdb
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\obj\Debug\net5.0\RestaurantAPI_DTO.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\obj\Debug\net5.0\RestaurantAPI_DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\obj\Debug\net5.0\RestaurantAPI_DTO.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\obj\Debug\net5.0\RestaurantAPI_DTO.AssemblyInfo.cs
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\obj\Debug\net5.0\RestaurantAPI_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\obj\Debug\net5.0\RestaurantAPI_DTO.dll
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\obj\Debug\net5.0\ref\RestaurantAPI_DTO.dll
+C:\Users\Owner\source\repos\RestaurantAPI\RestaurantAPI_DTO\obj\Debug\net5.0\RestaurantAPI_DTO.pdb
